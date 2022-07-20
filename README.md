@@ -9,3 +9,7 @@ Bu Proje Unity 2D kullanılarak Mobil (Android) için geliştirilen Tetris tarz�
 The gameplay of the game is like Tetris. The wastes are played by swiping right, left or down with the touch and throwing them into the right waste bucket.
 
 Oyunun oynanışı Tetris gibidir. Atıklar dokunmatik olarak sağa, sola veya aşağıya kaydırarak doğru atık kovasına atarak oynanır.
+
+
+# Source Code Coming Soon ...
+Kaynak kodları yakında ...
